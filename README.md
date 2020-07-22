@@ -1,3 +1,3 @@
-This is react-apex example.
+This is react-apexchart example.
 
 
